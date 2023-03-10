@@ -1,0 +1,5 @@
+Person:
+  ==: us.mytheria.spigottesting.entities.Person
+  name: Worldwidely hated MD5
+  age: 100
+Message: '&cHello from the other side!'

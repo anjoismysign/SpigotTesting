@@ -1,0 +1,6 @@
+name: SpigotTesting
+version: ${project.version}
+main: us.mytheria.spigottesting.SpigotTesting
+api-version: 1.19
+load: STARTUP
+authors: [anjoismysign]
